@@ -117,9 +117,20 @@ console.log(mathSimple('100', 2)) // ???
 // Padahal, tujuan utamanya adalah memberikan 
 // pengalaman pengembangan aplikasi yang lebih baik, bukan?
 
+const arry = ['one', 'two', 'three'];
+const str = 'hello';
+
+const test1 = arry.includes('on');
+console.log(test1);
+
+const test2 = arry.includes('onetwo');
+console.log(test2);
+
+const test3  = str.includes('11');
+console.log(test3);
 
 
-
-
+console.log(+true); 
+console.log(!'xyz'); 
 
 

@@ -31,19 +31,21 @@
 // Penulisan kode TypeScript membutuhkan .ts sebagai ekstensi berkasnya. 
 // Lalu, sintaks kodenya pun tidak berbeda dengan Flow. Berikut contohnya.
 
-const myName: string = 'TypeScript';
+// const myName: string = 'TypeScript';
 
-function greet(name : string) {
-    console.log(`Hello, ${name} My name is ${myName}`);
-};
+// function greet(name : string) {
+//     console.log(`Hello, ${name} My name is ${myName}`);
+// };
 
-greet('JavaScript');
+// greet('JavaScript');
 
 
 
-function numbers(numA : number, numB : number ){
-    return numA + numB;
-};
+// function numbers(numA : number, numB : number ){
+//     return numA + numB;
+// };
 
-const result = numbers('10', 5);
-console.log(result);
+// const result = numbers('10', 5);
+// console.log(result);
+
+
